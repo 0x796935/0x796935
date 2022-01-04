@@ -29,12 +29,7 @@
 <br />
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=LagKnowsWhy&show_icons=true&hide_border=true" />
-
-</details>
 
 [twitter]: https://twitter.com/LagKnowsWhy
 [youtube]: https://www.youtube.com/channel/UCpQiNHQ36WL4o-_4odIe78g
