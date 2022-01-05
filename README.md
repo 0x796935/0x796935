@@ -1,7 +1,7 @@
 ### Hi there, I'm Mika - aka [LagKnowsWhy] 👋 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/LagKnowsWhy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FLagKnowsWhy&screen_name=LagKnowsWhy)
-[![Discord Chat](https://img.shields.io/discord/919544908245794828?color=1DA1F2&logo=discord&style=for-the-badge)]([discord])
+[![Discord Chat](https://img.shields.io/discord/919544908245794828?color=1DA1F2&logo=discord&style=for-the-badge)]()
 
 
 - 🔭 Currently developing a discord bot against malicious websites!
@@ -13,7 +13,7 @@
 
 [<img align="left" alt="LagKnowsWhy | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="LagKnowsWhy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LagKnowsWhy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />][discord]
+[<img align="left" alt="LagKnowsWhy | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />][discord]
 <br />
 
 ### Languages and Tools:
