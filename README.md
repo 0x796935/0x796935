@@ -5,7 +5,7 @@
 
 
 - 🔭 Currently developing a discord bot against malicious websites!
-- 🌱 I’m currently learning C in school
+- 🌱 Learning C as new language in school
 - 🥅 2022 Goals: Code a good bot for discord
 - ⚡ Fun fact: I love to sit inside play games and cheat ^^
 
