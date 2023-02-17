@@ -1,7 +1,7 @@
 [![ReadmeTyping](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hello+there%2C+I'm+yi5!+☕;Working+on+Discord+bot+Projects+✅)]()
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/LagKnowsWhy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FLagKnowsWhy&screen_name=LagKnowsWhy)
-[![Discord Chat](https://img.shields.io/discord/919544908245794828?color=1DA1F2&logo=discord&style=for-the-badge)]()
+[![Discord Chat](https://img.shields.io/discord/919544908245794828?color=1DA1F2&logo=discord&style=for-the-badge)](https://discord.gg/mgcXgCGxYU)
 
 ### My Profile
 
