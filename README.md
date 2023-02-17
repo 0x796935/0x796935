@@ -15,9 +15,13 @@
 [<img align="left" alt="LagKnowsWhy | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />][discord]
 <br />
 
-### Languages and Tools:
+### Languages:
+[![My Skills](https://skillicons.dev/icons?i=nodejs,py,php,html,css,cpp,markdown,bash,js,ts)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=discord,nodejs,py,php,html,css,cpp,mysql,sqlite,postman,nginx,cloudflare,markdown,git,bash,js,ts)](https://skillicons.dev)
+### Tools:
+[![My Tools](https://skillicons.dev/icons?i=discord,mysql,sqlite,postman,nginx,cloudflare,git)](https://skillicons.dev)
+
+
 
 [twitter]: https://twitter.com/LagKnowsWhy
 [youtube]: https://www.youtube.com/channel/UCpQiNHQ36WL4o-_4odIe78g
