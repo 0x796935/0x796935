@@ -3,6 +3,10 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/0x796935?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F0x796935&screen_name=0x796935)
 [![Discord Chat](https://img.shields.io/discord/919544908245794828?color=1DA1F2&logo=discord&style=for-the-badge)](https://discord.gg/mgcXgCGxYU)
 
+### Stats
+My Profile            |  Top Languages
+:-------------------------:|:-------------------------:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=0x796935&theme=radical)  |  ![](https://github-readme-stats.vercel.app/api?username=0x796935&theme=radical)
 
 ### Connect with me:
 
