@@ -2,6 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/0x796935?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F0x796935&screen_name=0x796935)
 [![Discord Chat](https://img.shields.io/discord/919544908245794828?color=1DA1F2&logo=discord&style=for-the-badge)](https://discord.gg/mgcXgCGxYU)
+[![Visitor Count](https://profile-counter.glitch.me/0x796935/count.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ### Stats
 My Profile            |  Top Languages
