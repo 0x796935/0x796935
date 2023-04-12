@@ -3,10 +3,6 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/0x796935?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F0x796935&screen_name=0x796935)
 [![Discord Chat](https://img.shields.io/discord/919544908245794828?color=1DA1F2&logo=discord&style=for-the-badge)](https://discord.gg/mgcXgCGxYU)
 
-### My Profile
-
-[![yi5's GitHub stats](https://github-readme-stats.vercel.app/api?username=0x796935&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ### Connect with me:
 
