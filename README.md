@@ -20,7 +20,7 @@ My Profile            |  Top Languages
 [![My Skills](https://skillicons.dev/icons?i=nodejs,py,php,html,css,cpp,markdown,bash,js,ts)](https://skillicons.dev)
 
 ### Tools:
-[![My Tools](https://skillicons.dev/icons?i=discord,mysql,sqlite,postman,nginx,cloudflare,git)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=docker,nginx,discordjs,mysql,sqlite,postman,cloudflare,git,kali)](https://skillicons.dev)
 
 
 
